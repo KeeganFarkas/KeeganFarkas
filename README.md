@@ -14,8 +14,10 @@ I'm a software developer with a passion for problem-solving and learning new tec
 
 ## 📊 GitHub Stats
 
-![Keegan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KeeganFarkas&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KeeganFarkas&layout=compact&theme=radical)
+<p float="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KeeganFarkas&show_icons=true&theme=dark" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeeganFarkas&layout=compact&theme=dark"/>
+</p>
 
 ## 🛠️ Skills
 
