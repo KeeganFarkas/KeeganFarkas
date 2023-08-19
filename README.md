@@ -21,7 +21,5 @@ I'm a software developer with a passion for problem-solving and learning new tec
 
 ## 🛠️ Skills
 
-- **Languages:** Python, C++
-- **Databases:** MySQL
-- **Tools:** Git
-- **Familiar:** Html5, CSS3, JavaScript, Linux, Bash, Assembly, Java, C
+- **Programming:** C++, Python, Java, Assembly, C, JavaScript, Python Unittest, Git, Bash, Makefile, SQL, HTML, CSS
+- **Software:** MongoDB, Docker
